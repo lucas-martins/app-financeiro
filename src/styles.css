@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: kaushan;
+    src: url(../src/assets/fonts/KaushanScript-Regular.ttf) format("opentype");
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to right top, #015307, #2b7726, #4c9d43, #6ec462, #90ed82);
+}
+
+.app-font {
+    font-family: 'kaushan', 'arial', 'sans-serif';
+}
+
+.app-title {
+    font-size: 4rem;
+    color: black;
+}

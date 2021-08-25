@@ -1,0 +1,12 @@
+.new-month {
+    position: absolute;
+    right: 20px;
+}
+
+.font-size {
+    font-size: 1.3rem;
+}
+
+.month-select {
+    min-width: 200px;
+}
